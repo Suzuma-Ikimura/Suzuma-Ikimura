@@ -30,6 +30,7 @@ Constantly developing my skills in the direction of VR technology, as I consider
 </a>
 </p>
 
+
 ## <p align="center"> Game engines and workplaces </p>
 <p align="center">
   <a href="https://visualstudio.microsoft.com">
