@@ -2,6 +2,12 @@
       <img src="https://i.ibb.co/Tk1FnLj/Git-Profile.png"420">
 </p>
 
+## About me
+                                                             
+Specialist in Unity and Unreal Engine programming. Recently graduated from college with a degree in Information Technology, in the future I plan to study for a Bachelor's degree.
+Currently have some experience in my profession.
+Constantly developing my skills in the direction of VR technology, as I consider it one of the most important sectors of the future.
+
 ## <p align="center"> Computer Language </p>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
@@ -58,3 +64,12 @@
     <img src="https://skillicons.dev/icons?i=au" />
 </a>
 </p>
+
+## <p align="center"> Languages </p>
+<p align="center">
+   <img src="https://img.shields.io/badge/Ukrainian-C2-orange" alt="">
+   <img src="https://img.shields.io/badge/Russian-B2-green" alt="">
+   <img src="https://img.shields.io/badge/English-B1-Red" alt="">
+   <img src="https://img.shields.io/badge/Poland-A2-yellowgreen" alt="">
+   <img src="https://img.shields.io/badge/Germany-A2-blue" alt="">
+</p>                   
