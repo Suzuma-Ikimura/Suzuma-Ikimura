@@ -2,11 +2,27 @@
       <img src="https://i.ibb.co/Tk1FnLj/Git-Profile.png"420">
 </p>
 
-## About me
+## <p align="center"> Languages </p>
+<p align="center">
+   <img src="https://img.shields.io/badge/Ukrainian-C2-orange" alt="">
+   <img src="https://img.shields.io/badge/Russian-B2-green" alt="">
+   <img src="https://img.shields.io/badge/English-B1-Red" alt="">
+   <img src="https://img.shields.io/badge/Poland-A2-yellowgreen" alt="">
+   <img src="https://img.shields.io/badge/Germany-A2-blue" alt="">
+</p>       
+
+## <p align="center"> About me </p>
                                                              
-Specialist in Unity and Unreal Engine programming. Recently graduated from college with a degree in Information Technology, in the future I plan to study for a Bachelor's degree.
-Currently have some experience in my profession.
-Constantly developing my skills in the direction of VR technology, as I consider it one of the most important sectors of the future.
+I'm a junior majoring in game development on Unity 3D and Unreal Engine game engines. Recently graduated from college with a degree in Information Technology, in the future, exactly now I'm considering going to universities in Europe or another territory to improve my degree and qualifications. 
+
+I'm constantly developing my skills in the field of development:
+- :goggles:	VR/AR applications.
+- :video_game: MMO RPG 2D, 3D and in the future in VR games. :joystick:	
+- :computer: Artificial Intelligence development. :brain:
+
+Hobbies: 
+- :eyeglasses: I like studying foreign languages, as they allow me to expand my horizons and communication with different nations, allowing me to make new acquaintances and establish contacts. 
+- :running_shirt_with_sash: Leading a healthy lifestyle.
 
 ## <p align="center"> Computer Language </p>
 <p align="center">
@@ -64,13 +80,4 @@ Constantly developing my skills in the direction of VR technology, as I consider
   <a href="https://www.adobe.com/products/audition">
     <img src="https://skillicons.dev/icons?i=au" />
 </a>
-</p>
-
-## <p align="center"> Languages </p>
-<p align="center">
-   <img src="https://img.shields.io/badge/Ukrainian-C2-orange" alt="">
-   <img src="https://img.shields.io/badge/Russian-B2-green" alt="">
-   <img src="https://img.shields.io/badge/English-B1-Red" alt="">
-   <img src="https://img.shields.io/badge/Poland-A2-yellowgreen" alt="">
-   <img src="https://img.shields.io/badge/Germany-A2-blue" alt="">
-</p>                   
+</p>            
