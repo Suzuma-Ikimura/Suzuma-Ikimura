@@ -65,6 +65,7 @@ Hobbies:
     <img src="https://skillicons.dev/icons?i=blender" />
 </a>
 </p>
+## <p align="center"> </p>
 
 ## <p align="center"> Graphic and Audio applications </p>
 <p align="center">
