@@ -11,7 +11,7 @@
    <img src="https://img.shields.io/badge/Germany-A2-blue" alt="">
 </p>       
 
-## <p align="center"> About me </p>
+<h2 align="center"> About me </p></h2>
                                                              
 I'm a junior majoring in game development on Unity 3D and Unreal Engine game engines. Recently graduated from college with a degree in Information Technology, in the future, exactly now I'm considering going to universities in Europe or another territory to improve my degree and qualifications. 
 
@@ -24,7 +24,8 @@ Hobbies:
 - :eyeglasses: I like studying foreign languages, as they allow me to expand my horizons and communication with different nations, allowing me to make new acquaintances and establish contacts. 
 - :running_shirt_with_sash: Leading a healthy lifestyle.
 
-## <p align="center"> Computer Language </p>
+
+<h2 align="center"> Computer Language </p>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
     <img src="https://skillicons.dev/icons?i=cs" />
@@ -45,9 +46,10 @@ Hobbies:
     <img src="https://skillicons.dev/icons?i=cpp" />
 </a>
 </p>
+</h2>
 
 
-## <p align="center"> Game engines and workplaces </p>
+<h2 align="center"> Game engines and workplaces </p>
 <p align="center">
   <a href="https://visualstudio.microsoft.com">
     <img src="https://skillicons.dev/icons?i=visualstudio" />
@@ -65,9 +67,9 @@ Hobbies:
     <img src="https://skillicons.dev/icons?i=blender" />
 </a>
 </p>
-## <p align="center"> </p>
+</h2>
 
-## <p align="center"> Graphic and Audio applications </p>
+<h2 align="center"> Graphic and Audio applications </p>
 <p align="center">
   <a href="https://www.adobe.com/products/premiere.html">
     <img src="https://skillicons.dev/icons?i=pr" />
@@ -81,4 +83,5 @@ Hobbies:
   <a href="https://www.adobe.com/products/audition">
     <img src="https://skillicons.dev/icons?i=au" />
 </a>
-</p>            
+</p>
+</h2>         
