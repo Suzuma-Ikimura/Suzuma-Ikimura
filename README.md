@@ -2,16 +2,15 @@
       <img src="https://i.ibb.co/Tk1FnLj/Git-Profile.png"420">
 </p>
 
-## <p align="center"> Languages </p>
+<h2 align="center"> Languages </p>
 <p align="center">
    <img src="https://img.shields.io/badge/Ukrainian-C2-orange" alt="">
    <img src="https://img.shields.io/badge/Russian-B2-green" alt="">
    <img src="https://img.shields.io/badge/English-B1-Red" alt="">
    <img src="https://img.shields.io/badge/Poland-A2-yellowgreen" alt="">
    <img src="https://img.shields.io/badge/Germany-A2-blue" alt="">
-</p>       
-
-<h2 align="center"> About me </p></h2>
+</p>
+</h2>       
                                                              
 I'm a junior majoring in game development on Unity 3D and Unreal Engine game engines. Recently graduated from college with a degree in Information Technology, in the future, exactly now I'm considering going to universities in Europe or another territory to improve my degree and qualifications. 
 
@@ -23,7 +22,7 @@ I'm constantly developing my skills in the field of development:
 Hobbies: 
 - :eyeglasses: I like studying foreign languages, as they allow me to expand my horizons and communication with different nations, allowing me to make new acquaintances and establish contacts. 
 - :running_shirt_with_sash: Leading a healthy lifestyle.
-
+<h2 align="center"></p></h2>
 
 <h2 align="center"> Computer Language </p>
 <p align="center">
