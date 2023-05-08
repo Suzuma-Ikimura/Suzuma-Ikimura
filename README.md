@@ -6,7 +6,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/Ukrainian-C2-orange" alt="">
    <img src="https://img.shields.io/badge/Russian-B2-green" alt="">
-   <img src="https://img.shields.io/badge/English-B1-Red" alt="">
+   <img src="https://img.shields.io/badge/English-B2-Red" alt="">
    <img src="https://img.shields.io/badge/Poland-A2-yellowgreen" alt="">
    <img src="https://img.shields.io/badge/Japan-A2-blue" alt="">
    <img src="https://img.shields.io/badge/Spanish-Learn-red" alt="">
