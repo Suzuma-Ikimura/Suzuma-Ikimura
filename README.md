@@ -4,12 +4,10 @@
 
 <h2 align="center"> Languages </p>
 <p align="center">
-   <img src="https://img.shields.io/badge/Ukrainian-C2-orange" alt="">
-   <img src="https://img.shields.io/badge/Russian-B2-green" alt="">
    <img src="https://img.shields.io/badge/English-B2-Red" alt="">
-   <img src="https://img.shields.io/badge/Poland-A2-yellowgreen" alt="">
+   <img src="https://img.shields.io/badge/Poland-C2-yellowgreen" alt="">
    <img src="https://img.shields.io/badge/Japan-A2-blue" alt="">
-   <img src="https://img.shields.io/badge/Spanish-Learn-red" alt="">
+   <img src="https://img.shields.io/badge/Spanish-B1-red" alt="">
 </p>
 </h2>       
                                                              
