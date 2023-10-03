@@ -11,7 +11,7 @@
 </p>
 </h2>       
                                                              
-I'm a junior majoring in game development on Unity 3D and Unreal Engine game engines. Recently graduated from college with a degree in Information Technology, in the future, exactly now I'm considering going to universities in Europe or another territory to improve my degree and qualifications. 
+I'm a junior or middle, IDK really majoring in game development on Unity 3D and Unreal Engine game engines. Recently graduated from college with a degree in Information Technology, in the future, exactly now I'm considering going to universities in Europe or another territory to improve my degree and qualifications. 
 
 I'm constantly developing my skills in the field of development:
 - :goggles:	VR/AR applications.
